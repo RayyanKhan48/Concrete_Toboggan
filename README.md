@@ -31,7 +31,7 @@ The Davis steering system, optimized with a scotch yoke, reduced friction and ac
 
 ## Steering system
 <img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/571af93a-5d0d-41df-add4-0ca4f324b465" alt="Image 1" width="300">
-&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/2ff9dbde-5a0a-4ff4-82da-2e7cceffcba6" alt="Image 2" width="300">
 
 ## Assembled Concrete Toboggan
