@@ -25,13 +25,16 @@ The selection process began by conducting research on possible steering mechanis
 ## Details
 The Davis steering system, optimized with a scotch yoke, reduced friction and achieved a 25° turning angle for precise control. The steering wheel featured dual-hand openings and alternative grips, connected via a shaft through the toboggan's floor. Safety measures included a semi-circular floor cut and foam padding on the wheel and bars.
 
-## Integrated Scotch Yoke and Davis steering system
+## Integrated Scotch Yoke and Davis Steering System
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/6037d6cc-1c68-4b84-8fc1-ceea87aa7d05" width="750" alt="Image">
 
 ## Steering system
-<div style="display: flex; justify-content: space-between; margin: 200;">
-    <img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/571af93a-5d0d-41df-add4-0ca4f324b465" alt="Image 1" width="200" height="150">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/2ff9dbde-5a0a-4ff4-82da-2e7cceffcba6" alt="Image 2" width="200" height="150">
-</div>
+<img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/571af93a-5d0d-41df-add4-0ca4f324b465" alt="Image 1" width="400">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/2ff9dbde-5a0a-4ff4-82da-2e7cceffcba6" alt="Image 2" width="400">
+
+## Assembled Concrete Toboggan
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/RayyanKhan48/Concrete_Toboggan/assets/115880728/cd873037-ad87-496e-a7df-59303b9f0460" alt="Image 2" width="700">
+
