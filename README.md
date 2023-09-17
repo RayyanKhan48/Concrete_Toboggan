@@ -26,13 +26,12 @@ The selection process began by conducting research on possible steering mechanis
 The Davis steering system, optimized with a scotch yoke, reduced friction and achieved a 25° turning angle for precise control. The steering wheel featured dual-hand openings and alternative grips, connected via a shaft through the toboggan's floor. Safety measures included a semi-circular floor cut and foam padding on the wheel and bars.
 
 ## Integrated Scotch Yoke and Davis Steering System
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="Capture1.png" alt="Image 1" width="700">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="Capture1.png" alt="Image 1" width="700">
 
 ## Steering system
-<img src="Capture2.png" alt="Image 2" width="400"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="Capture4.png" alt="Image 3" width="400">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="Capture2.png" alt="Image 2" width="400">  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="Capture4.png" alt="Image 3" width="400">
 
 ## Assembled Concrete Toboggan
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="Capture5.png" alt="Image 4" width="700">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="Capture5.png" alt="Image 4" width="700">
 
